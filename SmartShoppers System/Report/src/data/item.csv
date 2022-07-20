@@ -1,0 +1,12 @@
+storeAddress,itemID,itemName,itemSize,category,quantity,price,discount,mapX,mapY,description
+Finch,6b030dae-73fd-4bc8-858f-181c57aba1cb,chip,Large,trash food,100,2.33,Yes,23,2,This is a lays chips.
+York,6c314428-638a-4deb-b662-016536800974,fries,Small,trash food,55,23.0,Yes,2,4,sdfasfasf
+York,bc4b5289-83b0-4abc-a651-e4e36f9e9596,fish,Medium,meat,123,33.0,Yes,3,56,sdfasfasf
+York,97f0d1eb-9b60-42d5-8f8c-1fc37d94f140,fries,Medium,trash food,55,23.0,Yes,2,4,sdfasfasf
+York,ec8be988-c3f3-453f-85e3-f54d7acaa7f4,fries,Large,trash food,55,666.0,Yes,2,4,sdfasfasf
+Finch,40df2f22-5313-4076-a0ca-85db0a893907,fish,Small,meat,23,3.12,Yes,2,2,This is a normal fish.
+Finch,4415cced-93d2-47ea-89d9-4f60aa7a508c,chip,Medium,trash food,100,2.33,Yes,23,2,This is a lays chips.
+Finch,28628bbe-d7d2-4561-b0e0-f30ca5daab53,coke,Medium,drink,77,2.3,No,2,4,This is coke.
+11 green ave,09d15089-b40d-4bab-9792-62810c88abc5,123,Small,123,123123,123.0,Yes,12,12,12
+11 green ave,3664fe0e-9a28-409f-855e-ee4898b0eb06,water,Small,123,123123,123.0,Yes,12,12,12
+Finch,f80e7ea2-ae33-424a-aec6-7d1124b08f49,fish,Medium,meat,2,3.12,Yes,2,2,This is a normal fish.

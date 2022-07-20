@@ -1,0 +1,13 @@
+customerName,storeAddress,itemName,quantity,price,size,mapX,mapY
+yuki,Finch,chip,22,2.33,Large,23,2
+yuki,Finch,fish,1,3.12,Medium,2,2
+yuki,York,fries,1,23.0,Medium,2,4
+yuki,York,fries,1,666.0,Large,2,4
+yuki,York,fries,1,23.0,Small,2,4
+yuki,York,fish,1,33.0,Medium,3,56
+nate,Finch,chip,99,2.33,Medium,23,2
+nate,Finch,fish,2,3.12,Medium,2,2
+nate,Finch,coke,55,2.3,Medium,2,4
+nate,York,fries,2,23.0,Medium,2,4
+nate,Finch,fish,1,3.12,Small,2,2
+nate,York,fries,1,666.0,Large,2,4

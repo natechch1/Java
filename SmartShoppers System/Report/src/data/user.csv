@@ -1,0 +1,9 @@
+type,name,password,address,email,preferenceStore
+Customer,nate,123,Toronto,nate@gmail.com,11 green ave
+Manager,keith,123,123,123,
+Administrator,omen,123,123,123,
+Administrator,joy,123,123,123,
+Manager,hao,123,Toronto,hao@gmail.com,
+Manager,nancy,123,123,123,
+Manager,jane,123,123,123,
+Manager,allen,123,123,asdf,
